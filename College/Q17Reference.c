@@ -1,4 +1,4 @@
-d//Call by reference
+//Call by reference
 #include <stdio.h>
 
 void swap(int *a, int *b) {
